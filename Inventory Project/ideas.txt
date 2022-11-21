@@ -1,0 +1,3 @@
+create a form for a small business with x number of employees and 1 admin
+
+there will be multiple forms including: login, signup for user, signup from admin pov, 
